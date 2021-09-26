@@ -18,7 +18,7 @@ const Info = (props) => {
           <p>Age : {age}</p>
           <p>Salary : ${salary} </p>
           <button className="btn-singer" onClick={() => props.eventHandler(props.data)} >   
-              <FontAwesomeIcon icon={faMusic} /> Vote Your Favourte Singer</button>
+              <FontAwesomeIcon icon={faMusic} /> See More </button>
         </div>   
         </div>
     </div >
