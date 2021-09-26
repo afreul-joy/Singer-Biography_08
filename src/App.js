@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './Component/Header/Header';
 import Singer from './Component/Singer/Singer';
