@@ -5,9 +5,9 @@ const Header = () => {
   return (
     <div>
       <article className="header">
-      <h3>Best Singer Award Nominations 2021</h3> 
-        <h4> Music is the only language in which you cannot say a mean or sarcastic thing. </h4>
-        <h5> Total Budget : 200 Million </h5>
+      <h3>Biography Of Singers</h3> 
+        <h5> Music is the only language in which you cannot say a mean or sarcastic thing. </h5>
+        <h6> Total Budget : 200 Million </h6>
       </article>
     </div>
   );

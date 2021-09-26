@@ -13,6 +13,7 @@ const Singer = () => {
       .then(res => res.json())
       .then(data=>setSinger(data))
   }, [])
+  // event handle
   const eventHandle= (data) => {
     const newVote = [...vote, data]
     setVote(newVote)
